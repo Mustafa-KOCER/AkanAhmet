@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Ahmet AKAN
 
-
-**AkanAhmet/AkanAhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🌱 I’m currently learning Java Spring & Angular
 
 - 📫 How to reach me: ahmet26es1@gmail.com
