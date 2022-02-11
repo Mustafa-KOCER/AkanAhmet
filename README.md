@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet AKAN</h1>
-<h3 align="center">A Fullstack developer from Ankara</h3>
+<h3 align="center">Software developer from Ankara</h3>
 
 - 🌱 I’m currently learning **Java Spring, Angular**
 
