@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet AKAN</h1>
 <h3 align="center">Software developer from Ankara</h3>
 
-- 🌱 I’m currently learning **Java Spring, Angular**
+- 🌱 I’m currently learning **Java Spring, React**
 
 - 📫 How to reach me **ahmet26es1@gmail.com**
 
