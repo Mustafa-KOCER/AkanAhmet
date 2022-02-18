@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet AKAN</h1>
 <h3 align="center">Software developer from Ankara</h3>
 
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<br/>
 
 - 🌱 I’m currently learning **Java Spring, React**
 
