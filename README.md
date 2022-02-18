@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akanahmet&theme=darcula&show_icons=true&locale=en" alt="akanahmet" /></p>
 
 
-<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=akanahmet&show_icons=true&locale=en&layout=compact" alt="akanahmet" /> </p>
+<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=akanahmet&show_icons=true&locale=en&theme=darcula&layout=compact" alt="akanahmet" /> </p>
