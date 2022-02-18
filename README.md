@@ -33,13 +33,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <table>
 <tr>
-<td>Ahmet AKAN</td>
-<td>Ahmet AKAN</td>
-</tr>
-<tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=akanahmet&theme=darcula&show_icons=true&locale=en" alt="akanahmet" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanahmet&show_icons=true&locale=en&theme=darcula&layout=compact" alt="akanahmet" /></td>
 </tr>
 </table>
-
-
