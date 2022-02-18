@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet AKAN</h1>
 <h3 align="center">Software developer from Ankara</h3>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966?raw=true" width="500" height="320" />
+<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **Java Spring, React**
 
