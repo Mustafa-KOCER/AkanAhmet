@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahmetakann" target="blank"><img style = "width:33%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmetakann" /></a>&nbsp;
 <a href="https://api.whatsapp.com/send?phone=905075514365&text=Merhaba Ahmet," target="_blank"><img style = "width:33%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/ahmetakann," target="_blank"><img style = "width:33%" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/ahmetakann" target="_blank"><img style = "width:15px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 
