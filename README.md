@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Ahmet AKAN](https://akanahmet.github.io)</h1>
+<h1 align="center">Hi 👋, I'm <a href ="https://akanahmet.github.io">[Ahmet]</a></h1>
 <h3 align="center">Software developer from Ankara</h3>
 
 <img align="right" class = "responsive" alt="GIF Here^^" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
